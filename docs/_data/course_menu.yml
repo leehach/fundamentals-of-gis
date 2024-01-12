@@ -1,0 +1,36 @@
+- label: Syllabus
+  items:
+    - name: Overview
+      link: /
+    - name: Schedule in Detail
+      link: /schedule_in_detail
+    - name: Assignments & Grading
+      link: /assignments_and_grading
+    - name: General Policies
+      link: /general_policies
+- label: Additional Resources
+  items:
+    - name: Placeholder
+      link: /placeholder
+
+################################
+# Sample format
+################################
+#- label: Menu Label
+#  items:
+#    - name: Example item
+#      link: /example-item/
+#- label: Second Menu Label
+#  items:
+#    - name: Parent Item
+#      link: /parent-item/
+#      items:
+#        - name: Sublink 
+#          link: /sublink/
+#        - name: Sublink 2
+#          link: /sublink2/
+#- label: Third Menu Label
+#  items:
+#    - name: Another example item
+#      link: /another-example-item/
+

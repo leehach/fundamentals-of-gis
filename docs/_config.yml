@@ -1,0 +1,29 @@
+title: Fundamentals of GIS
+description: Hachadoorian & McKeon | Spring 2024
+remote_theme: chrisrhymes/bulma-clean-theme
+
+titles_from_headings:
+  enabled: false
+
+defaults:
+  
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      title: Fundamentals of GIS
+      subtitle: Spring 2024
+      layout: page
+      show_sidebar: false
+      menubar: course_menu
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Lee Hachadoorian"
+      layout: post
+      image: https://via.placeholder.com/1200x800
+      show_sidebar: true
+
