@@ -35,14 +35,31 @@ An exception is that missing one class (attending 92.9% of class meetings) will 
 
 ## Lab Exercises
 
-40 (base score) + 5 points for each of Labs 1 and 2 + 10 points for each of Labs 3 - 7. The labs are sequenced so that later labs rely upon concepts and skills learned in earlier labs. Accordingly, if any lab exercise is not submitted, no points will be awarded for any of the following exercises.
+40 (base score) + 5 points for each of Labs 1 and 2 + 10 points for each of Labs 3 - 7. Labs 1 & 2 are focused on familiarizing yourself with the software. Lab 3 and later will be focused on an analysis task. The labs are sequenced so that later labs rely upon concepts and skills learned in earlier labs. Accordingly, if any lab exercise is not submitted, no points will be awarded for any of the following exercises.
 
-Lab exercises will be accepted late. However, if you turn your work in on time, you will be allowed to submit revisions after grading. Nothing is right the first time, and you should know that it is highly unlikely that you will be awarded full points for your first submission, especially for the more complex later exercises. Your goal should be to:
+For each lab assignment you should submit a brief PDF report via Canvas. I will grade and make comments on your report. **Exercises which are submitted on time, but don't earn full points, may be redone and resubmitted.** Your goal should be to earn full points for all lab exercises.
 
-1. Submit your labs on time; and
-2. Resubmit them until you get a perfect score.
+The lab report must be approximately 500-1000 words. The document should be single-spaced 12-14 point font. It should have your name, date, and lab assignment number (e.g. Lab 1) at the top of the page. Sloppy or unreadable labs will be sent back for revision.
 
-To reiterate, late lab exercises may not be resubmitted for a higher grade.
+The report must contain the following five sections:
+
+1. Introduction
+2. Methods
+3. Results
+4. Conclusion
+5. Tables and Figures
+
+Each section should be set off with a larger font. It will be easiest if you use built-in styles in your word processor to assign the "Heading 1" style to the section.
+ 
+The introduction section should state the objective – what you are trying to accomplish in your assignment. Here, your objective is the goal of your analysis, not the learning objective. The introduction should not state that your objective is "To learn GIS" or something similar!
+ 
+The methods section should state how you did the analysis, what analytical steps you took to complete the assignment.  This is not a tutorial and should not state buttons that you pushed. Rather, it should summarize what analytical operations you used. For this you should use the GIS jargon we learn in class, e.g. buffer, overlay, and the parameters employed.
+ 
+The results section should report the results of your analysis. This section is often very brief, as it should be devoid of substantial commentary—just the facts. It could be just the numerical outcome of the analysis.
+ 
+The conclusion section should offer some interpretation of your results as well as report on any assumptions and limitations of your analysis and what other steps could be taken to improve the analysis.
+ 
+In addition, the lab may require the creation of maps, tables, and/or charts, as specified in the lab assignment. These graphics should appear in the final section of the report and referred to in the text.
 
 ### Lab 1-2 (5 points x two)
 
