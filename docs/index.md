@@ -38,7 +38,7 @@ This course will make use of *GIS Fundamentals, 6e*, by Paul Bolstad. The book i
     * Projections and Coordinate Systems
     * Lab 1 Due
 * Week 3
-    * Principles of Mapping and Representation*
+    * Principles of Mapping and Representation
     * Lab 2 Due
 * Week 4
     * Attribute Data and Relational Database
@@ -68,7 +68,6 @@ This course will make use of *GIS Fundamentals, 6e*, by Paul Bolstad. The book i
 * Week 13
     * GIS Ethics
     * Project Time
-* **FALL BREAK**
 * Week 14
     * Free and Open Source Software (FOSS4G)
     * Grad Student Presentations

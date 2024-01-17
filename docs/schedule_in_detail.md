@@ -79,4 +79,4 @@
 * Finals Period
     * **EXAM (May 7, 5:45-7:45pm):** This will be an opportunity to retake content modules from Exams 1 and 2 for a higher grade.
     * **Due Date (May 7):** Term Project Final Report
-        * Lab: Project time
+
