@@ -8,7 +8,7 @@
         * Lab 1: [Introduction to ArcGIS](https://github.com/temple-geography/fundamentals-arcgis-pro/blob/master/Lab_01_Introduction_to_ArcGIS.md)
 * Week 2 (Jan 22 - 26)
     * Tues – Projections and Coordinate Systems
-        * Reading: Bolstad Ch 3 – Note: This chapter is pretty long and pretty complex. You can skim or skip the material on datums (pp. 83 – 100). Please give the rest of the chapter a close read.
+        * Reading: Bolstad Ch 3 – Note: This chapter is pretty long and pretty complex. Other than the section on Horizontal Datums, you can skim or skip the rest of the material on datums (pp. 100 – 115). Please give the rest of the chapter a close read.
         * Lab 2: [Projections and Coordinate Reference Systems](https://github.com/temple-geography/fundamentals-arcgis-pro/blob/master/Lab_02_Projections_and_CRS.md)
     * Wed
         * **Due Date:** Lab 1
@@ -30,7 +30,7 @@
         * **Due Date:** Lab 3
 * Week 5 (Feb 12 - 16)
     * Tues – Vector Data Model
-        * Reading: Bolstad Ch 2 "Vector Data Models"
+        * Reading: Reread Bolstad Ch 2 "Common Spatial Data Models"
         * Lab 4 (cont)
 * Week 6 (Feb 19 - 23)
     * Tues – Exam 1
@@ -53,12 +53,12 @@
 * Week 9 (Mar 18 - 22)
     * Tues – Raster Data Model and Operations
         * Reading:
-            * Bolstad Ch 2 "Raster Data Models" and "Triangulated Irregular Networks"
+            * Bolstad Ch 2 "Raster Data Models", "Other Data Models", and "Data and File Structures"
             * Bolstad Ch 10
            * Lab 6 (cont)
 * Week 10 (Mar 25 - 29)
     * Tues – Spatial Estimation
-        * Reading: Bolstad Ch 12 "Sampling" and "Spatial Interpolation Methods"
+        * Reading: Bolstad Ch 12
         * Lab 7: [Introduction to Raster Operations](https://github.com/temple-geography/fundamentals-arcgis-pro/blob/master/Lab_07_Raster_Operations.md)
     * Wed
         * **Due Date:** Lab 6
