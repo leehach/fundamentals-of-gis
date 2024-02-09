@@ -19,7 +19,7 @@ Coln=my_other_column_name Text
 Coln=some_other_column Text
 ```
 
-`Col`$n$ must be replaced with the actual column number. I haven't figured out a way to shortcut this. There is a `ColNameHeader=True` setting, but when I used it I got an error when I tried to load the file. Unfortunately if you have a table with a lot of columns, you will have to count to figure out the number of the one you want to correct.
+`Col`*n* must be replaced with the actual column number. I haven't figured out a way to shortcut this. There is a `ColNameHeader=True` setting, but when I used it I got an error when I tried to load the file. Unfortunately if you have a table with a lot of columns, you will have to count to figure out the number of the one you want to correct.
 
 `my_column_name` should be replaced with an actual column name. If the column name has spaces, it should be quoted. For example:
 
