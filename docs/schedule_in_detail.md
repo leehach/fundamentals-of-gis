@@ -48,14 +48,14 @@
     * Mon
         * **Due Date:** Lab 5
     * Tues – Vector Operations
-            * Reading: Bolstad Ch 9
-            * Lab 6: [Vector Operations/Overlay Analysis](https://github.com/temple-geography/fundamentals-arcgis-pro/blob/master/Lab_06_Vector_Operations.md)
+        * Reading: Bolstad Ch 9
+        * Lab 6: [Vector Operations/Overlay Analysis](https://github.com/temple-geography/fundamentals-arcgis-pro/blob/master/Lab_06_Vector_Operations.md)
 * Week 9 (Mar 18 - 22)
     * Tues – Raster Data Model and Operations
         * Reading:
             * Bolstad Ch 2 "Raster Data Models", "Other Data Models", and "Data and File Structures"
             * Bolstad Ch 10
-           * Lab 6 (cont)
+        * Lab 6 (cont)
 * Week 10 (Mar 25 - 29)
     * Tues – Spatial Estimation
         * Reading: Bolstad Ch 12
@@ -73,6 +73,7 @@
 * Week 13 (Apr 15 - 19)
     * Tues – GIS Ethics
         * Reading: TBD
+        * Lab: Project time
 * Week 14 (Apr 22 - 26)
     * Tues – Free and Open Source Software (FOSS4G)
         * Lab: Grad Student Presentations

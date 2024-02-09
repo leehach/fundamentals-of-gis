@@ -10,8 +10,16 @@
       link: /general_policies
 - label: Additional Resources
   items:
-    - name: Placeholder
-      link: /placeholder
+    - name: Exam 1 Study Guide
+      link: /exam_1_study_guide
+    - name: Exam 2 Study Guide
+      link: /exam_2_study_guide
+    - name: Choosing a Map Projection
+      link: /choosing_a_map_projection
+    - name: Loading Numeric Data As Text in ArcGIS Pro
+      link: /loading_numeric_data_as_text
+    - name: Map Elements
+      link: /map_elements
 
 ################################
 # Sample format
