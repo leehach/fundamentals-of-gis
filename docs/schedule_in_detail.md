@@ -66,16 +66,19 @@
     * Tues – Exam 2
         * Lab 7 (cont)
 * Week 12 (Apr 8 - 12)
-    * Tues
+    * Tues – Spatial Cluster Detection
+        * No reading
         * Lab: Project time
     * Wed
         * **Due Date:** Lab 7
 * Week 13 (Apr 15 - 19)
     * Tues – GIS Ethics
-        * Reading: TBD
+        * Reading:
+            * [Professional and Practical Ethics of GIS&T](https://gistbok.ucgis.org/bok-topics/professional-and-practical-ethics-gist) – Pay particular attention to the seven-step guide to ethical decision making presented in Section 5, and prepare for in-class discussion by applying steps 1-4 to the following case study
+            * [Flood Insurance Mapping Case Study](https://sites.psu.edu/gisethics/files/2022/09/flood-insurance-mapping-case.pdf)
         * Lab: Project time
 * Week 14 (Apr 22 - 26)
-    * Tues – Free and Open Source Software (FOSS4G)
+    * Tues – Wrap-up
         * Lab: Grad Student Presentations
 * Finals Period
     * **EXAM (May 7, 5:45-7:45pm):** This will be an opportunity to retake content modules from Exams 1 and 2 for a higher grade.

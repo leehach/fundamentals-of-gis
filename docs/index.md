@@ -63,13 +63,14 @@ This course will make use of *GIS Fundamentals, 6e*, by Paul Bolstad. The book i
 * Week 11
     * Exam 2
 * Week 12
+    * Spatial Cluster Detection
     * Project Time
     * Lab 7 Due
 * Week 13
     * GIS Ethics
     * Project Time
 * Week 14
-    * Free and Open Source Software (FOSS4G)
+    * Wrap-up
     * Grad Student Presentations
 * Finals Period
     * Exam
