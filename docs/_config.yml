@@ -1,6 +1,6 @@
 title: Fundamentals of GIS
 description: Hachadoorian & McKeon | Spring 2024
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 
 titles_from_headings:
   enabled: false
