@@ -2,7 +2,7 @@
 
 This course will make use of a variant of [Specification Grading](https://sites.temple.edu/hachadoorian/specification-grading/). This means that many assignments will be graded Complete/Incomplete or assigned a provisional grade, and in some cases will merely be returned with comments. Assignments marked Incomplete or not awarded full points may be revised and resubmitted. Quizzes can be retaken until passed, unless otherwise specified.
 
-You will earn points along several **tracks**. Each track is worth up to 100 points. Your must progress along ***ALL*** tracks to be successful in this course. Your final grade is based on the ***lowest*** score earned along any track.
+You will earn points along several **tracks**. Each track is worth up to 100 points. You must progress along ***ALL*** tracks to be successful in this course. Your final grade is based on the ***lowest*** score earned along any track.
 
 Tracks proceed linearly and assignments usually need to be completed in the designated order. For example, for labs, the material is cumulative, and you can't earn credit for Lab 4 if you haven't completed Lab 3. Often, later assignments in a track presume knowledge you will have acquired by completing earlier assignments.
 
