@@ -86,7 +86,7 @@ You will earn 10 points for each completed content module. A score of 8 or highe
 
 60 (base score) - 100 points.
 
-This will be an independent analysis of somewhat higher comlexity than a lab exercise, using data and spatial methods determined by you. Points will be awarded for meeting milestones, including finding data, developing an analysis plan, etc.
+This will be an independent analysis of somewhat higher complexity than a lab exercise, using data and spatial methods determined by you. Points will be awarded for meeting milestones, including finding data, developing an analysis plan, etc.
 
 **Graduate Students**
 
